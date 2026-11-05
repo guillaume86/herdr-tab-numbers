@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "herdr-app check mods/tab-numbers",
+    "upstream": "node scripts/check-upstream.mjs"
+  }
+}

@@ -1,0 +1,7 @@
+herdr-tab-numbers
+
+mods/tab-numbers/main.js and upstream/tabs-main.js are derived from the `tabs` mod shipped
+with Herdr (herdr-app 0.1.13, defaults/mods/tabs/main.js), licensed under the Apache
+License, Version 2.0. mods/tab-numbers/main.js is modified: the changes are the lines
+marked "tab-numbers:" (the tab number badge). The rest of this repository is original
+work under the same license.

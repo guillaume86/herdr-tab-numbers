@@ -1,0 +1,4 @@
+# Written by Herdr (gpui-shell) on every run; a committed copy would go stale.
+gpui-kit.d.ts
+jsconfig.json
+node_modules/
